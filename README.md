@@ -12,4 +12,4 @@ This repository offers a collection of C++ solutions for various problems catego
 1. **Clone the Repository:**
    To get a local copy of the repository, run:
    ```bash
-   git clone https://github.com/EASINTUHA/CodeChef-0-500-Rating-Solutions-C++.git
+   git clone https://github.com/EASINTUHA/CodeChef-0-500-Rating-Solutions.git
