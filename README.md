@@ -7,6 +7,8 @@ Welcome to the CodeChef 0-500 Rating Solutions repository! This repository conta
 This repository offers a collection of C++ solutions for various problems categorized by their difficulty rating. Each problem has a dedicated file in the this directory. The solutions are well-commented to explain the logic and approach used.
 all problem link:
 https://www.codechef.com/practice/basic-programming-concepts
+also you can visit my profile:
+https://www.codechef.com/users/easintuha1
 
 ## How to Use
 
